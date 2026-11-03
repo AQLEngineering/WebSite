@@ -2,3 +2,5 @@
 
 /* Keep the projects preview below its introductory text at every viewport. */
 .lab-workflow-stage:has(.lab-projects-mock){display:flex;flex-direction:column;height:auto;min-height:720px}.lab-workflow-stage:has(.lab-projects-mock) .lab-workflow-copy{position:relative;left:auto;top:auto;margin:38px 42px 0;flex:none}.lab-workflow-stage:has(.lab-projects-mock) .lab-projects-mock{position:relative;inset:auto;min-height:400px;margin:32px 42px 38px;flex:1}@media(max-width:760px){.lab-workflow-stage:has(.lab-projects-mock){min-height:670px}.lab-workflow-stage:has(.lab-projects-mock) .lab-workflow-copy{width:auto;margin:26px 20px 0}.lab-workflow-stage:has(.lab-projects-mock) .lab-presence{position:relative;left:auto;right:auto;top:auto;margin:20px 20px 0}.lab-workflow-stage:has(.lab-projects-mock) .lab-projects-mock{min-height:420px;margin:20px 18px}}
+
+.institutional-company{grid-template-columns:1fr}
